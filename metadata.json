@@ -1,0 +1,5 @@
+{
+  "name": "Zenith POS - Professional Point of Sale System",
+  "description": "A complete, feature-rich Point of Sale (POS) system built with React and TypeScript. It includes product management, order processing, inventory tracking, sales reports, and an AI-powered sales summary feature using the Gemini API.",
+  "requestFramePermissions": []
+}
